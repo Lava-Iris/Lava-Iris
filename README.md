@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6686c72e6cd3b9cc3fa613dc?variant=dark)](https://roadmap.sh)
+
 <!--
 **Lava-Iris/Lava-Iris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
